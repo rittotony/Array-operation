@@ -1,0 +1,1 @@
+Identify words containing at least one letter from ["A", "E", "R"] (case-insensitive) in a string. Print them in descending order of appearance, with their frequencies. Example: "Alice is eating berries" -> Alice:3, eating:2, berries:1. Input string and array?
